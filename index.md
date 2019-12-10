@@ -20,6 +20,12 @@
 
 [Iron Barrels](https://www.curseforge.com/minecraft/mc-mods/iron-barrels)
 
+[Chicken Feathers](https://www.curseforge.com/minecraft/mc-mods/chicken-feathers)
+
+[Unlimiter](https://www.curseforge.com/minecraft/mc-mods/unlimiter)
+
+[Flax](https://www.curseforge.com/minecraft/mc-mods/flax-mod-fabric)
+
 ## Mod Packs
 
 [Tecc](https://www.curseforge.com/minecraft/modpacks/tecc)
