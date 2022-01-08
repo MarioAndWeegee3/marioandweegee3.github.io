@@ -35,3 +35,5 @@
 [Tecc 2](https://www.curseforge.com/minecraft/modpacks/tecc-2)
 
 [Tecc Lite 2](https://www.curseforge.com/minecraft/modpacks/tecc-lite-2)
+
+[Tecc 3](https://www.curseforge.com/minecraft/modpacks/tecc-3)
