@@ -1,0 +1,3 @@
+[submodule "create-pack"]
+	path = create-pack
+	url = https://github.com/MarioAndWeegee3/create-pack
