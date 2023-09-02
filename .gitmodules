@@ -1,3 +1,6 @@
 [submodule "create-pack"]
 	path = create-pack
 	url = https://github.com/MarioAndWeegee3/create-pack
+[submodule "server-pack-1.20"]
+	path = server-pack-1.20
+	url = https://github.com/MarioAndWeegee3/server-pack-1.20.git
